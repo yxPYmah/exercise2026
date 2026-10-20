@@ -1,0 +1,5 @@
+# Readme
+
+Have fun in Java!
+Hello, GitHub!
+My first contribution.
